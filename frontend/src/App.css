@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Ribeye&display=swap');
+
+body {
+  font-family: 'Ribeye', cursive;
+}
+
+.center-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.center-container img {
+  max-width: 90%; 
+  height: auto;
+}
